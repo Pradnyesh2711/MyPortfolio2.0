@@ -230,9 +230,9 @@ const testimonials = [
 // Projects
 const projects = [
     {
-        name: "Finanseer",
+        name: "Farmeasy",
         description:
-            "A Finance App Dashboard designed to provide valuable insights and financial data visualization. The dashboard includes various types of charts, a data grid for displaying product and order information, and machine learning predictions for revenue forecasting.",
+            " it is an online shopping platform for farmers, developed using React JS,Tailwind CSS, Node JS, MongoDB, and machine learning algorithms. It enables direct sales between farmers and consumers while incorporating price prediction and recommendation systems",
         tags: [
             {
                 name: "MERN",
@@ -252,9 +252,9 @@ const projects = [
         live_demo_link: "https://finanseer-4bdg.onrender.com/",
     },
     {
-        name: "EcomVision",
+        name: "FoodEasy",
         description:
-            "The ultimate admin dashboard solution for businesses. With ECOMVISION, you can easily manage and analyze your business data in one convenient location. From tracking sales figures to customer engagement metrics, ECOMVISION has got you covered. ",
+            "Our team  Ved Vision participated in the SE Hackathon on April 29 and 30 and secured the 4th position out of many teams! Our team leader, I led a team of four.We worked on the problem statement and made FoodEasy. FoodEasy is a web application that aims to reduce food waste by connecting individuals and businesses with surplus food to people and organizations in need. ",
         tags: [
             {
                 name: "MERN",
