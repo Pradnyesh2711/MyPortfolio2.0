@@ -248,7 +248,7 @@ const projects = [
             },
         ],
         image: finance,
-        source_code_link: "https://github.com/jbxamora/finanseer",
+        source_code_link: "https://github.com/Pradnyesh2711/Farmeasyy1",
         live_demo_link: "https://finanseer-4bdg.onrender.com/",
     },
     {
@@ -270,13 +270,13 @@ const projects = [
             },
         ],
         image: ecomdash,
-        source_code_link: "https://github.com/jbxamora/admindash",
+        source_code_link: "https://github.com/Pradnyesh2711/Foodeasy",
         live_demo_link: "https://adminclient-nfme.onrender.com",
     },
     {
-        name: "DALLE-E Clone",
+        name: "Pradnyesh's-Bank-Flow",
         description:
-            "A web application built using React.js that utilizes OpenAI's DALL-E API to generate images from textual descriptions. The application is designed to showcase the power of OpenAI's DALL-E API and how it can be used to create stunning images from textual inputs.",
+            "Made a Banking System using Data Structures like stack,queue,linked list & AVL trees.The Main thing which makes it unique is it is made only for bank employees and efficient management of the bank & it provides 20+ Function to the User ",
         tags: [
             {
                 name: "MERN",
