@@ -295,72 +295,72 @@ const projects = [
         source_code_link: "https://github.com/jbxamora/DALL-E-Clone",
         live_demo_link: "https://dall-e2-e3hy.onrender.com/",
     },
-    {
-        name: "GPTalk",
-        description:
-            "GPTalk is 'THE BLOG OF THE FUTURE', read and update trending stories! Utilize OpenAIs ChatGPT to help you rewrite articles. ",
-        tags: [
-            {
-                name: "NEXT13",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "TailwindCSS",
-                color: "green-text-gradient",
-            },
-            {
-                name: "Blog",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: gptalk,
-        source_code_link: "https://github.com/jbxamora/GPTalk",
-        live_demo_link: "gptalk-fgzvn1lh0-jbxamora.vercel.app",
-    },
-    {
-        name: "ArticleSumz",
-        description:
-            "Sumz is an open-source article summarization tool powered by the advanced capabilities of OpenAI GPT-4. Designed to help users quickly grasp the essence of lengthy articles, Sumz transforms verbose content into clear, concise, and informative summaries.",
-        tags: [
-            {
-                name: "React",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "TailwindCSS",
-                color: "green-text-gradient",
-            },
-            {
-                name: "GPT-4",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: article,
-        source_code_link: "https://github.com/jbxamora/articlesumz",
-        live_demo_link: "https://articlesumz.onrender.com/",
-    },
-    {
-        name: "PromptPal",
-        description:
-            "Organize and plan your business with ease! Manage your company's departments, roles, and employees all in one place with this command-line application, that lets you view and add departments, roles, and employees, update an employee's role, and even view the budget of a department!",
-        tags: [
-            {
-                name: "NEXT13",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "TailWindCSS",
-                color: "green-text-gradient",
-            },
-            {
-                name: "Prompt-Share",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: promptpal,
-        source_code_link: "https://github.com/jbxamora/promptpal",
-        live_demo_link: "https://promptpal.vercel.app",
-    }
+    // {
+    //     name: "GPTalk",
+    //     description:
+    //         "GPTalk is 'THE BLOG OF THE FUTURE', read and update trending stories! Utilize OpenAIs ChatGPT to help you rewrite articles. ",
+    //     tags: [
+    //         {
+    //             name: "NEXT13",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "TailwindCSS",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "Blog",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: gptalk,
+    //     source_code_link: "https://github.com/jbxamora/GPTalk",
+    //     live_demo_link: "gptalk-fgzvn1lh0-jbxamora.vercel.app",
+    // },
+    // {
+    //     name: "ArticleSumz",
+    //     description:
+    //         "Sumz is an open-source article summarization tool powered by the advanced capabilities of OpenAI GPT-4. Designed to help users quickly grasp the essence of lengthy articles, Sumz transforms verbose content into clear, concise, and informative summaries.",
+    //     tags: [
+    //         {
+    //             name: "React",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "TailwindCSS",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "GPT-4",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: article,
+    //     source_code_link: "https://github.com/jbxamora/articlesumz",
+    //     live_demo_link: "https://articlesumz.onrender.com/",
+    // },
+    // {
+    //     name: "PromptPal",
+    //     description:
+    //         "Organize and plan your business with ease! Manage your company's departments, roles, and employees all in one place with this command-line application, that lets you view and add departments, roles, and employees, update an employee's role, and even view the budget of a department!",
+    //     tags: [
+    //         {
+    //             name: "NEXT13",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "TailWindCSS",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "Prompt-Share",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: promptpal,
+    //     source_code_link: "https://github.com/jbxamora/promptpal",
+    //     live_demo_link: "https://promptpal.vercel.app",
+    // }
 ];
 
 export { services, technologies, experiences, testimonials, projects };

@@ -3,6 +3,8 @@ import { motion } from "framer-motion"; // Importing motion from framer-motion l
 import { Styles } from "../styles"; // Importing Styles object for reusing CSS classes
 import { ComputersCanvas } from "./canvas"; // Importing ComputersCanvas component
 
+
+
 const Hero = () => {
   return (
     <section className={`relative w-full h-screen mx-auto`}>
@@ -24,6 +26,9 @@ const Hero = () => {
           FullStack Developer<br className="sm:block hidden" />
             
           </p>
+          <div>
+          <img className="object-right rounded-full h-60" src={"src/components/IMG_20230113_092506~2.jpg"} alt="Logo" />
+          </div>
         </div>
       </div>
 
