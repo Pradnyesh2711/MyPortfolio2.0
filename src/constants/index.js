@@ -64,7 +64,7 @@ export const navLinks = [
         title: "Resume",
         download: true,
         onClick: () => handleDownload(),
-        href: 'https://www.dropbox.com/s/hb6m45hpwmt4wa2/Jorge_Zamora-Developer.docx?dl=0',
+        href: ''
     }
 ];
 
@@ -127,18 +127,18 @@ const technologies = [
         name: "Tailwind CSS",
         icon: tailwind,
     },
-    {
-        name: "Redux Toolkit",
-        icon: redux,
-    },
+    // {
+    //     name: "Redux Toolkit",
+    //     icon: redux,
+    // },
     {
         name: "Three JS",
         icon: threejs,
     },
-    {
-        name: "figma",
-        icon: figma,
-    },
+    // {
+    //     name: "figma",
+    //     icon: figma,
+    // },
     {
         name: "git",
         icon: git,
@@ -203,11 +203,12 @@ const experiences = [{
 const testimonials = [
     {
         testimonial:
-            "Jorge's innovative design and development approach helped us achieve our business objectives in record time. His expertise in building high-performing websites is unmatched.",
-        name: "Emily Chen",
-        designation: "CEO",
-        company: "SmART",
-        image: "https://randomuser.me/api/portraits/women/1.jpg",
+            "our team Ved Vision participated in the SE Hackathon on April 29 and 30 and secured the 4th position🎉out of many teams! Our team leader, I led a team of four.We worked on the problem statement and made FoodEasy. FoodEasy is a web application that aims to reduce food waste by connecting individuals and businesses with surplus food to people and organizations in need.",
+        name: "Pradnyesh Jain",
+        designation: "Team Leader",
+        company: "Ved Vision",
+        link: "https://www.linkedin.com/posts/pradnyeshjain_hackathon-webdevelopement-cause-activity-7060630205404463104-MSJS?utm_source=share&utm_medium=member_desktop"
+        
     },
     {
         testimonial:
@@ -216,6 +217,7 @@ const testimonials = [
         designation: "VP Marketing",
         company: "Global10",
         image: "https://randomuser.me/api/portraits/men/2.jpg",
+        link:"https://www.linkedin.com/posts/pradnyeshjain_hackathon-webdevelopement-cause-activity-7060630205404463104-MSJS?utm_source=share&utm_medium=member_desktop"
     },
     {
         testimonial:

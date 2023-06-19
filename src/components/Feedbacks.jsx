@@ -14,6 +14,7 @@ const FeedbackCard = ({
   designation,
   company,
   image,
+  link
 }) => (
   <motion.div
     variants={fadeIn("", "spring", index * 0.5, 0.75)} //using 'fadeIn' function to animate the feedback card
@@ -33,12 +34,14 @@ const FeedbackCard = ({
             {designation} of {company}
           </p>
         </div>
-
-        <img
-          src={image}
-          alt={`feedback_by-${name}`}
-          className="w-10 h-10 rounded-full object-cover"
-        />
+         <a
+              href={link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-tertiary mt-4 py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl mr-4 hidden sm:inline-block"
+            >
+              Link
+            </a> 
       </div>
     </div>
   </motion.div>
@@ -52,8 +55,8 @@ const Feedbacks = () => {
         className={`bg-tertiary rounded-2xl ${Styles.padding} min-h-[300px]`}
       >
         <motion.div variants={textVariant()}>
-          <p className={Styles.sectionSubText}>What others say</p>
-          <h2 className={Styles.sectionHeadText}>Testimonials.</h2>
+          <p className={Styles.sectionSubText}>What I have Achieved So Far</p>
+          <h2 className={Styles.sectionHeadText}>Achievements.</h2>
         </motion.div>
       </div>
       <div className={`-mt-20 pb-14 ${Styles.paddingX} flex flex-wrap gap-7`}>
