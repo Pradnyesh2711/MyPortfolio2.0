@@ -65,6 +65,10 @@ export const navLinks = [
         download: true,
         onClick: () => handleDownload(),
         href: ''
+    },
+    {
+        id: "Achievement",
+        title: "Achievement",
     }
 ];
 
@@ -212,20 +216,19 @@ const testimonials = [
     },
     {
         testimonial:
-            "Jorge's commitment to quality and attention to detail is truly remarkable. His ability to understand our unique requirements and deliver customized solutions sets him apart from other web developers.",
-        name: "Alex Wong",
-        designation: "VP Marketing",
-        company: "Global10",
-        image: "https://randomuser.me/api/portraits/men/2.jpg",
-        link:"https://www.linkedin.com/posts/pradnyeshjain_hackathon-webdevelopement-cause-activity-7060630205404463104-MSJS?utm_source=share&utm_medium=member_desktop"
+            "Received an offer letter for a 6-month internship! 🎉at Snowcode I am grateful to have been offered this opportunity as a Algorithm Developer and I am excited to embark on this new journey. The internship will provide me with valuable hands-on experience and an opportunity to learn and grow in the field. I am eager to contribute my skills and knowledge while expanding my understanding of Building a Programming language and Algorithm Development.",
+        name: "Pradnyesh Jain",
+        designation: "Algorithm Developer",
+        company: "Snowcode",
+        link:"https://www.linkedin.com/posts/pradnyeshjain_internshipoffer-excitedfornewjourney-learningandgrowth-activity-7072463435380273152-aBr_?utm_source=share&utm_medium=member_desktop"
     },
     {
         testimonial:
-            "Jorge's technical skills and professionalism are second to none. He provided exceptional support throughout the entire development process and delivered a website that exceeded our expectations.",
-        name: "Julie Smith",
-        designation: "Founder",
-        company: "iNov8 L.P.",
-        image: "https://randomuser.me/api/portraits/women/3.jpg",
+            "an Open Source Contributor for the upcoming GirlScript Summer of Code'23. Looking forward to exciting challenges and also connecting with a lot of amazing people during the journey.Thanks, GirlScript Summer of Code Summer of Code for this opportunity.",
+        name: "Pradnyesh Jain",
+        designation: "Contributor",
+        company: "Gssoc",
+    link:"https://www.linkedin.com/posts/pradnyeshjain_gssoc2023-opportunity-opensource-activity-7065656853107544064-av5c?utm_source=share&utm_medium=member_desktop ",
     },
 ];
 

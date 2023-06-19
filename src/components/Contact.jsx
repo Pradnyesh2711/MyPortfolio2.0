@@ -135,7 +135,7 @@ const Contact = () => {
               {loading ? "Sending..." : "Send"}
             </button>
             <a
-              href="https://github.com/jbxamora"
+              href="https://github.com/Pradnyesh2711"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-tertiary mt-4 py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl mr-4 hidden sm:inline-block"
@@ -143,12 +143,20 @@ const Contact = () => {
               GitHub
             </a>
             <a
-              href="https://gist.github.com/jbxamora"
+              href="https://www.linkedin.com/in/pradnyeshjain/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-tertiary mt-4 py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl hidden sm:inline-block"
             >
-              Blog
+              Linkedin
+            </a>
+            <a
+              href="https://leetcode.com/pradnyeshjain_27/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-tertiary mt-4 py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl hidden sm:inline-block"
+            >
+              Leetcode
             </a>
           </div>
         </form>
