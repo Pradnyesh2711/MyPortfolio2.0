@@ -259,7 +259,7 @@ const projects = [
     {
         name: "FoodEasy",
         description:
-            "Our team  Ved Vision participated in the SE Hackathon on April 29 and 30 and secured the 4th position out of many teams! Our team leader, I led a team of four.We worked on the problem statement and made FoodEasy. FoodEasy is a web application that aims to reduce food waste by connecting individuals and businesses with surplus food to people and organizations in need. ",
+            "I led a team of four.We worked on the problem statement and made FoodEasy. FoodEasy is a web application that aims to reduce food waste by connecting individuals and businesses with surplus food to people and organizations in need. ",
         tags: [
             {
                 name: "MERN",
