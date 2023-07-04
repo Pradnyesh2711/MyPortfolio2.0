@@ -157,10 +157,8 @@ const experiences = [{
     iconBg: "#383E56",
     date: "Dec 2021 - Sep 2022",
     points: [
-        "Developing custom Shopify websites for clients in a variety of industries.",
-        "Creating custom themes and integrating third-party apps to meet clients' specific needs.",
-        "Troubleshooting and resolving technical issues to ensure smooth website performance.",
-        "Providing ongoing support and maintenance to clients after website launch.",],
+        "Creating Designs and Templates for Specific events like ACSES commitee Introduction,ICE Cup(The Flagship Event).",
+        "Providing ongoing support and managing events and thinking and building some creative events .",],
 },
 {
     title: "Creatives Head",
@@ -169,10 +167,10 @@ const experiences = [{
     iconBg: "#383E56",
     date: "Oct 2022 - Present",
     points: [
-        "Collaborating with clients to understand their business goals and website requirements.",
-        "Developing and implementing SEO strategies to improve website visibility and drive traffic.",
-        "Customizing Shopify checkout process to improve conversion rates.",
-        "Working with designers to create visually appealing and user-friendly website designs.",
+        "Creating Designs and Templates for Specific events like AIML Bootcamp,ICE Cup(The Flagship Event),Java Bootcamp",
+        "Managing Events like CODE IT OUT,Chess Intercollege Championship etc.",
+        "Customizing Insta Page to improve attraction.",
+        "Working with Sub-com designers to create visually appealing and user-friendly website designs.",
     ],
 },
 {
