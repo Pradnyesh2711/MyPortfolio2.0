@@ -1,7 +1,7 @@
 import { motion } from "framer-motion"; // Importing motion from framer-motion library for animations
 
 import { Styles } from "../styles"; // Importing Styles object for reusing CSS classes
-import { ComputersCanvas } from "./canvas"; // Importing ComputersCanvas componen
+import { ComputersCanvas } from "./canvas"; // Importing ComputersCanvas component
 
 
 
