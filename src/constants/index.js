@@ -251,7 +251,7 @@ const projects = [
         ],
         image: finance,
         source_code_link: "https://github.com/Pradnyesh2711/Farmeasyy1",
-        live_demo_link: "https://finanseer-4bdg.onrender.com/",
+        // live_demo_link: "https://finanseer-4bdg.onrender.com/",
     },
     {
         name: "FoodEasy",
@@ -273,7 +273,7 @@ const projects = [
         ],
         image: ecomdash,
         source_code_link: "https://github.com/Pradnyesh2711/Foodeasy",
-        live_demo_link: "https://adminclient-nfme.onrender.com",
+        // live_demo_link: "https://adminclient-nfme.onrender.com",
     },
     {
         name: "Pradnyesh's-Bank-Flow",
@@ -295,7 +295,7 @@ const projects = [
         ],
         image: dalle,
         source_code_link: "https://github.com/jbxamora/DALL-E-Clone",
-        live_demo_link: "https://dall-e2-e3hy.onrender.com/",
+        // live_demo_link: "https://dall-e2-e3hy.onrender.com/",
     },
     // {
     //     name: "GPTalk",
