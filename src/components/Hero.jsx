@@ -1,7 +1,7 @@
 import { motion } from "framer-motion"; // Importing motion from framer-motion library for animations
 
 import { Styles } from "../styles"; // Importing Styles object for reusing CSS classes
-import { ComputersCanvas } from "./canvas"; // Importing ComputersCanvas component
+import { ComputersCanvas } from "./canvas"; // Importing ComputersCanvas componen
 
 
 
@@ -26,9 +26,9 @@ const Hero = () => {
           Web Developer|| Mern Stack||Cpp||Creative Head at ACSES||Technical Head at IEEE CS||Contributor Gssoc'23||4th in SE HACKATHON'23<br className="sm:block hidden" />
             
           </p>
-          <div>
+          {/* <div>
           <img className="object-right rounded-full h-60" src={"src/components/IMG_20230113_092506~2.jpg"} alt="Logo" />
-          </div>
+          </div> */}
         </div>
       </div>
 
