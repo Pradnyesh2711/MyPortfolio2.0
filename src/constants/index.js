@@ -169,7 +169,7 @@ const experiences = [{
     points: [
         "Creating Designs and Templates for Specific events like AIML Bootcamp,ICE Cup(The Flagship Event),Java Bootcamp",
         "Managing Events like CODE IT OUT,Chess Intercollege Championship etc.",
-        "Customizing Insta Page to improve attraction.",
+        "Customizing Instagram Page to improve attraction.",
         "Working with Sub-com designers to create visually appealing and user-friendly website designs.",
     ],
 },
@@ -180,10 +180,10 @@ const experiences = [{
     iconBg: "##383E56",
     date:"Oct 2022 - Present",
     points: [
-        "Developing custom Shopify apps to extend website functionality.",
-        "Integrating Shopify with third-party APIs to automate business processes.",
-        "Performing website audits to identify and address performance issues.",
-        "Training clients on how to manage and update their Shopify websites.",
+        "Managing events like Project session,IEEE CS Innaugration",
+        "Collabrating With other commitees like IEEE,E-cell SPIT for events",
+        "Conducting Technichal Contest like Sort-a-Thon contest,CodeExplore contest.",
+        "Provides Technichal Support to commitee as needed.",
     ],
 },
 {
@@ -193,10 +193,9 @@ const experiences = [{
     iconBg: "##383E56",
     date:"May 2023 - Present",
     points: [
-        "Developing custom Shopify apps to extend website functionality.",
-        "Integrating Shopify with third-party APIs to automate business processes.",
-        "Performing website audits to identify and address performance issues.",
-        "Training clients on how to manage and update their Shopify websites.",
+        "Builidng Websites,Developing custom apps to extend website functionality.",
+        "Collabrating with others as well as helping others devlop",
+        "Fixing Bug,Feature Implementation,Code Review etc",
     ],
 }
 ];
