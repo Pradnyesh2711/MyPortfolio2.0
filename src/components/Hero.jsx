@@ -27,7 +27,7 @@ const Hero = () => {
             
           </p>
           <div>
-          <img className="object-right rounded-full h-60" src={"D:/react2jorge-main/src/components/IMG_20230113_092506~2-min.jpg"} alt="Logo" />
+          <img className="object-right rounded-full h-60" src={"src/components/IMG_20230113_092506~2-min.jpg"} alt="Logo" />
           </div>
         </div>
       </div>
