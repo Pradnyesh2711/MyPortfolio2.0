@@ -116,7 +116,6 @@ const Works = () => {
         {/*  This h2 element contains text that serves as the section heading. */}
         <h2 className={`${Styles.sectionHeadText}`}>Projects.</h2>
       </motion.div>
-
       {/* This div element contains a motion.p element that describes the projects. */}
       <div className="w-full flex">
         <motion.p
@@ -135,6 +134,7 @@ const Works = () => {
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
       </div>
+      <h2 className={`${Styles.sectionHeadText}`}>Pradnyesh Jain.</h2>
     </>
   );
 };

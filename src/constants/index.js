@@ -29,8 +29,7 @@ import {
     finance,
     article,
     gptalk,
-    promptpal,
-    image
+    promptpal
 } from "../assets";
 
 function handleDownload(url) {
@@ -252,7 +251,7 @@ const projects = [
         ],
         image: finance,
         source_code_link: "https://github.com/Pradnyesh2711/Farmeasyy1",
-        // live_demo_link: "https://finanseer-4bdg.onrender.com/",
+        live_demo_link: "https://finanseer-4bdg.onrender.com/",
     },
     {
         name: "FoodEasy",
@@ -274,7 +273,7 @@ const projects = [
         ],
         image: ecomdash,
         source_code_link: "https://github.com/Pradnyesh2711/Foodeasy",
-        // live_demo_link: "https://adminclient-nfme.onrender.com",
+        live_demo_link: "https://adminclient-nfme.onrender.com",
     },
     {
         name: "Pradnyesh's-Bank-Flow",
@@ -296,30 +295,18 @@ const projects = [
         ],
         image: dalle,
         source_code_link: "https://github.com/jbxamora/DALL-E-Clone",
-        // live_demo_link: "https://dall-e2-e3hy.onrender.com/",
+        live_demo_link: "https://dall-e2-e3hy.onrender.com/",
     },
-    // {
-    //     name: "GPTalk",
-    //     description:
-    //         "GPTalk is 'THE BLOG OF THE FUTURE', read and update trending stories! Utilize OpenAIs ChatGPT to help you rewrite articles. ",
-    //     tags: [
-    //         {
-    //             name: "NEXT13",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "TailwindCSS",
-    //             color: "green-text-gradient",
-    //         },
-    //         {
-    //             name: "Blog",
-    //             color: "pink-text-gradient",
-    //         },
-    //     ],
-    //     image: gptalk,
-    //     source_code_link: "https://github.com/jbxamora/GPTalk",
-    //     live_demo_link: "gptalk-fgzvn1lh0-jbxamora.vercel.app",
-    // },
+    {
+        name: "Creator",
+        description:
+            "Portfolio/Pradnyesh Jain ",
+        tags: [
+
+        ],
+        image: gptalk,
+       
+    },
     // {
     //     name: "ArticleSumz",
     //     description:
@@ -365,6 +352,5 @@ const projects = [
     //     live_demo_link: "https://promptpal.vercel.app",
     // }
 ];
-
 
 export { services, technologies, experiences, testimonials, projects };

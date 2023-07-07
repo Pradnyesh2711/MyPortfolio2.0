@@ -26,13 +26,15 @@ const Hero = () => {
           Web Developer|| Mern Stack||Cpp||Creative Head at ACSES||Technical Head at IEEE CS||Contributor Gssoc'23||4th in SE HACKATHON'23<br className="sm:block hidden" />
             
           </p>
-          
+          <div>
+          <img className="object-right rounded-full h-60" src={"src/components/IMG_20230113_092506~2.jpg"} alt="Logo" />
+          </div>
         </div>
       </div>
 
       {/* 3DComputer canvas */}
       <ComputersCanvas />
-    
+
       {/* Animated Scroll/Mouse */}
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="#about">

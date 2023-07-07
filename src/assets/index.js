@@ -39,7 +39,6 @@ import article from "./article.png"
 import gptalk from "./gptalk.png"
 import promptpal from "./promptpal.png"
 
-
 export {
   logo,
   backend,
@@ -77,6 +76,5 @@ export {
   finance,
   article,
   gptalk,
-  promptpal,
-
+  promptpal
 };
