@@ -27,7 +27,7 @@ const Hero = () => {
             
           </p>
           <div>
-          <img className="object-right rounded-full h-60" src={"public/img202301130925062min.jpg"} alt="Logo" />
+          <img className="object-right rounded-full h-60" src={"public/image.jpg"} alt="Logo" />
           </div>
         </div>
       </div>
