@@ -29,7 +29,8 @@ import {
     finance,
     article,
     gptalk,
-    promptpal
+    promptpal,
+    image
 } from "../assets";
 
 function handleDownload(url) {
@@ -364,5 +365,6 @@ const projects = [
     //     live_demo_link: "https://promptpal.vercel.app",
     // }
 ];
+
 
 export { services, technologies, experiences, testimonials, projects };

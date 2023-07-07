@@ -32,9 +32,7 @@ const Hero = () => {
 
       {/* 3DComputer canvas */}
       <ComputersCanvas />
-      <div>
-          <img className="object-right rounded-full h-60" src={"public/image.jpg"} alt="Logo" />
-          </div>
+    
       {/* Animated Scroll/Mouse */}
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
